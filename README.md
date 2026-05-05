@@ -19,8 +19,6 @@ Runner находится в статусе `Online`.
 
 Скриншоты с настройками runner:
 
-Runner settings
-
 ![Runner settings](task1_runner_settings.png)
 
 ![Runner details](task1_runner_details.png)
